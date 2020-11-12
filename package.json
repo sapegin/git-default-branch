@@ -1,6 +1,6 @@
 {
   "name": "git-default-branch",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns Git default branch name",
   "author": {
     "name": "Artem Sapegin",
